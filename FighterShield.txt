@@ -1,1 +1,1 @@
-Type=Unlimited User=salah StartDate=2026-09-21 Years=1 Months=0 Days=0 RoayleOn=1 Hwid=3>:6<==3>>3::36>5552:52:;2562562F8
+Type=Unlimited User=salah StartDate=2026-09-21 Years=1 Months=0 Days=0 RoayleOn=1 Hwid=3;4038:030322E:/F5/HH/DG/:2/2D873:4F8D/:976/33G9/;E65/DE2222962222
