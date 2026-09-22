@@ -2,4 +2,4 @@ FigterShield
 Type=Ultimate User=abomalk StartDate=2026-09-21 Years=0 Months=0 Days=4 RoayleOn=1 Hwid=3>:638=36;=3798552:52:;25H2I82K;
 Type=Ultimate User=foud StartDate=2026-09-21 Years=0 Months=0 Days=4 RoayleOn=1 Hwid=3>:6==395376<36;65526;28J26K2I5285
 Type=Ultimate User=mohamed StartDate=2026-09-21 Years=0 Months=0 Days=29 RoayleOn=1 Hwid=3>::63;=373655552:52:;2552672<K
-Type=Ultimate User=salah StartDate=2026-09-21 Years=0 Months=0 Days=29 RoayleOn=1 Hwid=3>::36>5552:52:;2562562F8
+Type=Ultimate User=salah StartDate=2026-09-21 Years=0 Months=0 Days=29 RoayleOn=1 Hwid=3>==3>>3::36>5552:52:;2562562F8
