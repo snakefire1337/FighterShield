@@ -5,4 +5,4 @@ Type=Ultimate User=mohamed StartDate=2026-09-21 Years=0 Months=0 Days=29 RoayleO
 Type=Ultimate User=salah StartDate=2026-09-21 Years=1 Months=0 Days=0 RoayleOn=1 Hwid=3>:6<==3>>3::36>5552:52:;2562562F8
 Type=Ultimate User=hamda StartDate=2026-09-27 Years=1 Months=0 Days=0 RoayleOn=1 Hwid=3>:783==3>37:5552:52:;2552<>2IH
 Type=Unlimited User=samir StartDate=2026-09-13 Years=0 Months=1 Days=0 RoayleOn=1 Hwid=3><6==:68;379836<=36<:5526;28J2682HI2K8
-Type=Unlimited User=Asgard StartDate=2026-09-28 Years=0 Months=0 Days=7 RoayleOn=1 Hwid=3><6==:63=836>399552:52:;2582552J>
+Type=Ultimate User=Asgard StartDate=2026-09-28 Years=0 Months=0 Days=7 RoayleOn=1 Hwid=3><6==:63=836>399552:52:;2582552J>
